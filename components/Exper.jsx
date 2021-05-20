@@ -1,6 +1,6 @@
 export default function Exper({ value }) {
   return (
-    <div className="md:float-right flex items-center justify-around md:justify-start md:space-x-1">
+    <div className="md:float-right md:mr-10 flex items-center justify-around md:justify-start md:space-x-1">
       <div
         className={`${value >= 1 ? "bg-gray-400" : "bg-gray-200"} w-5 h-5`}
       ></div>
