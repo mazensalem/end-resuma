@@ -17,15 +17,15 @@ export default function Section() {
             <Exper value={5} />
           </li>
           <li className="text-center md:text-left">
+            <span>PTHON</span>
+            <Exper value={5} />
+          </li>
+          <li className="text-center md:text-left">
             <span>TYPESCRIPT</span>
             <Exper value={4} />
           </li>
           <li className="text-center md:text-left">
-            <span>SCSS</span>
-            <Exper value={4} />
-          </li>
-          <li className="text-center md:text-left">
-            <span>PHP</span>
+            <span>C++</span>
             <Exper value={3} />
           </li>
         </ul>
