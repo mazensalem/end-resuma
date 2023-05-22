@@ -12,13 +12,13 @@ export default function Skills() {
           <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">NEXTJS</li>
           <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">GIT</li>
           <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">TESTING</li>
-          <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">GRAPHQL</li>
-          <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">WORDPRESS</li>
+          <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">REST API</li>
+          <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">TAILWIND CSS</li>
           <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">
-            DATASTRUCTUR
+            MONGO DB
           </li>
-          <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">ALGORITHMS</li>
-          <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">DJANGO</li>
+          <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">GSP ANIMATION</li>
+          <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">THREE JS</li>
         </ul>
       </main>
     </div>
