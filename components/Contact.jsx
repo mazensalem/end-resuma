@@ -9,9 +9,9 @@ export default function Contact() {
         <br />
         {`>>>`} salemmazen27@gmail.com
         <br />
-        {`>>>`} salemmazen35@gmail.com
+        {`>>>`} mazensalemkfs@gmail.com
         <br />
-        <strong>mobile No.</strong> &nbsp;&nbsp;&nbsp; 01285301916
+        <strong>mobile No.</strong> &nbsp;&nbsp;&nbsp; +201092293184
       </main>
     </div>
   );
